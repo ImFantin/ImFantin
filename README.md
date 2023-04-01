@@ -1,4 +1,4 @@
-# Hey👋! There!
+# Hey👋 There!
 <p>I'm Douglas Fantin a Frontend Developer from Canada</p>
 
 <div align="center">
