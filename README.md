@@ -12,7 +12,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>
 📚 I'm currently learning Javascript and React<br>
 🎯 Goals: Become too good at cooding<br>
 🎲 Fun fact: Gym rat</p>
