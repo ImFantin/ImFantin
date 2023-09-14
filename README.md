@@ -12,7 +12,7 @@
 
 ###
 
-📚 I'm currently learning Javascript and React<br>
+📚 I'm currently learning Javascript, React and Python<br>
 🎯 Goals: Become too good at cooding<br>
 🎲 Fun fact: Gym rat</p>
 
