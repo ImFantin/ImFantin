@@ -1,40 +1,13 @@
-# Hey👋 There!
-<p>I'm Douglas Fantin a Frontend Developer from Canada</p>
+# 💫 About Me:
+📚 I'm currently learning Javascript, React, and Python<br>🎯 Goals: Become too good at coding<br>🎲 Fun fact: Gym rat
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imfantin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imfantin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/douglasfantin) 
 
-## About me
-
-###
-
-📚 I'm currently learning Javascript, React, and Python<br>
-🎯 Goals: Become too good at cooding<br>
-🎲 Fun fact: Gym rat</p>
-
-###
-
-## I code with
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="60" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="60" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="60" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/douglasfantin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/313128424946401300" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ImFantin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ImFantin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImFantin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
