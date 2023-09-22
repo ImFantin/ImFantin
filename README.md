@@ -2,8 +2,8 @@
 <p>I'm Douglas Fantin a Frontend Developer from Canada</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fantinn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fantinn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImFantin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImFantin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-📚 I'm currently learning Javascript, React and Python<br>
+📚 I'm currently learning Javascript, React, and Python<br>
 🎯 Goals: Become too good at cooding<br>
 🎲 Fun fact: Gym rat</p>
 
@@ -35,7 +35,7 @@
   <a href="https://discordapp.com/users/313128424946401300" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/dougiefantin/" target="_blank">
+  <a href="https://www.instagram.com/dougfantin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
