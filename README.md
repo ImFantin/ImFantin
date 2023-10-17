@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently learning Javascript, React, and Python<br>🎯 Goals: Become too good at coding<br>🎲 Fun fact: Gym rat
+📚 I'm currently learning Javascript, React, and Python<br>🎲 Fun fact: Gym rat
 
 
 ## 🌐 Socials:
